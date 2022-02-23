@@ -1,10 +1,3 @@
-/*
-Projeto feito por:
-Henrique Lopes da Silva - 26310562
-Letícia Andrade de França - 28211740
-Pedro Henrique Jesus - 27141276 
-Raphael Bispo Elias - 26138051
-*/ 
 "use strict"
 
 let fii_user = [];
